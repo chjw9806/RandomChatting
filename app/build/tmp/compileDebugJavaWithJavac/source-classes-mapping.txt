@@ -1,0 +1,11 @@
+com/example/randomchatting/ChatData.java
+ com.example.randomchatting.ChatData
+com/example/randomchatting/BuildConfig.java
+ com.example.randomchatting.BuildConfig
+com/example/randomchatting/ChatAdapter.java
+ com.example.randomchatting.ChatAdapter
+ com.example.randomchatting.ChatAdapter$MyViewHolder
+com/example/randomchatting/MainActivity.java
+ com.example.randomchatting.MainActivity
+ com.example.randomchatting.MainActivity$1
+ com.example.randomchatting.MainActivity$2
